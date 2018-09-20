@@ -13,4 +13,4 @@ install:
       pip install -e .
 # Tests running commands
 script:
-  - trial hello
+  # - trial hello
